@@ -1,0 +1,142 @@
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0LklyUMMUhpIjMgYHlV0hN",
+          "id" : "0LklyUMMUhpIjMgYHlV0hN",
+          "name" : "Chicano Batman",
+          "type" : "artist",
+          "uri" : "spotify:artist:0LklyUMMUhpIjMgYHlV0hN"
+        } ],
+        "available_markets" : [ "US" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4pDImKyFK8QQKf1wvqwnFg"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4pDImKyFK8QQKf1wvqwnFg",
+        "id" : "4pDImKyFK8QQKf1wvqwnFg",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/037be6f4bdabb71b8fc61a594f8ce8ccac4cb57b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ee7bf858e6dd3248317edbcd99fdb7cc9cebc425",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/3491599aa4e7f591e602334577520354c8facf2f",
+          "width" : 64
+        } ],
+        "name" : "Freedom Is Free",
+        "release_date" : "2017-03-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:4pDImKyFK8QQKf1wvqwnFg"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LklyUMMUhpIjMgYHlV0hN",
+        "id" : "0LklyUMMUhpIjMgYHlV0hN",
+        "name" : "Chicano Batman",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LklyUMMUhpIjMgYHlV0hN"
+      } ],
+      "available_markets" : [ "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 237746,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USATO1600675"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/41bN3RpdiA7tpEGDE5v7p9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/41bN3RpdiA7tpEGDE5v7p9",
+      "id" : "41bN3RpdiA7tpEGDE5v7p9",
+      "is_local" : false,
+      "name" : "La Jura",
+      "popularity" : 42,
+      "preview_url" : null,
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:41bN3RpdiA7tpEGDE5v7p9"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3rHl3rSgCnHhOlVB87ZxyF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3rHl3rSgCnHhOlVB87ZxyF",
+          "id" : "3rHl3rSgCnHhOlVB87ZxyF",
+          "name" : "Kevin Hart",
+          "type" : "artist",
+          "uri" : "spotify:artist:3rHl3rSgCnHhOlVB87ZxyF"
+        } ],
+        "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1r9q0IiQ8z1ZejgsaIhWIE"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1r9q0IiQ8z1ZejgsaIhWIE",
+        "id" : "1r9q0IiQ8z1ZejgsaIhWIE",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/928d32dcfd57cf72c87e2980782841c59da53dbf",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/35655ea829c798a903c7917e4e5168b5c428a903",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/904303c7c0ef6f5662be5bc6572ff150a77dc5d0",
+          "width" : 64
+        } ],
+        "name" : "What Now?",
+        "release_date" : "2017-09-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 12,
+        "type" : "album",
+        "uri" : "spotify:album:1r9q0IiQ8z1ZejgsaIhWIE"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3rHl3rSgCnHhOlVB87ZxyF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3rHl3rSgCnHhOlVB87ZxyF",
+        "id" : "3rHl3rSgCnHhOlVB87ZxyF",
+        "name" : "Kevin Hart",
+        "type" : "artist",
+        "uri" : "spotify:artist:3rHl3rSgCnHhOlVB87ZxyF"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 325219,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "USUG11701503"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4imRENCCW2utxcihS4poLP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4imRENCCW2utxcihS4poLP",
+      "id" : "4imRENCCW2utxcihS4poLP",
+      "is_local" : false,
+      "name" : "Batman Rape",
+      "popularity" : 38,
+      "preview_url" : null,
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:4imRENCCW2utxcihS4poLP"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=batman&type=track&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4296
+  }
