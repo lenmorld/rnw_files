@@ -20,6 +20,7 @@ class Header extends React.Component {
                 <h1>
                     <span className="circle">😃</span>Music Hub
                     <div style={{ fontSize: '11px', marginLeft: '50px'}}>
+                        {/* this is a comment */}
                         <span style={styles.tagline_span}>
                             {tagline}
                             {word()}
