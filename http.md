@@ -20,9 +20,9 @@ curl http://localhost:4000/list/0c4IEciLCDdXEhhKxj4ThA
 
 curl http://localhost:4000/list/something_that_doesnt_exist
 
-curl -X POST http://localhost:4000/list -H "Content-Type: application/json" --data '{"title":"My Song", "album":"My Album", "id":"daskdal2dasdk2dasd"}'
+curl -X POST http://localhost:4000/list -H "Content-Type: application/json" --data '{"title":"Castle on the Hill", "artist":"Ed Sheran", "album":"Divide", "id":"6PCUP3dWmTjcTtXY02oFdT"}'
 
-curl -X PUT http://localhost:4000/list/dasdsad123da -H "Content-Type: application/json" --data '{"title":"My Song", "album":"My Album", "id":"daskdal2dasdk2dasd"}'
+curl -X PUT http://localhost:4000/list/6PCUP3dWmTjcTtXY02oFdT -H "Content-Type: application/json" --data '{"title":"Castle on the Hill", "artist":"Ed Sheran", "album":"Divide", "id":"6PCUP3dWmTjcTtXY02oFdT"}'
 
-curl -X DELETE http://localhost:4000/list/dasdsad123da
+curl -X DELETE http://localhost:4000/list/5VnDkUNyX6u5Sk0yZiP8XB
 
