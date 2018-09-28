@@ -24,5 +24,5 @@ curl -X POST http://localhost:4000/list -H "Content-Type: application/json" --da
 
 curl -X PUT http://localhost:4000/list/6PCUP3dWmTjcTtXY02oFdT -H "Content-Type: application/json" --data '{"title":"Castle on the Hill", "artist":"Ed Sheeeran", "album":"Divide", "id":"6PCUP3dWmTjcTtXY02oFdT"}'
 
-curl -X DELETE http://localhost:4000/list/5VnDkUNyX6u5Sk0yZiP8XB
+curl -X DELETE http://localhost:4000/list/6PCUP3dWmTjcTtXY02oFdT
 
